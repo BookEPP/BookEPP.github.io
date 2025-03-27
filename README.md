@@ -57,11 +57,54 @@ The very popular programming language Python is part of the curriculum at many u
 - 3.2 Basic Reactions of QED
 - 3.3 Higher Order Processes
 
+#### 4 Quarks and Gluonsin Quantum Chromodynamics
+- 4.1 Quarks withColor
+- 4.2 Color Dynamics
+- 4.3 The Structureof Hadrons
+- 4.4 Electromagneticand Strong Decaysof Hadrons
+- 4.5 New Heavy Quarks
 
+#### 5 Electrons and Quarks
+- 5.1 Electron-Positron Annihilation into Hadrons
+- 5.2 ElasticElectron-Nucleon Scattering
+- 5.3 Inelastic Electron-Nucleon Scattering
+- 5.4 Two-Photon Physics
 
+#### 6 From the Weak to the Electroweak Interaction
+- 6.1 Weak Interactionof Leptons 
+- 6.2 Weak Interactionof Quarks, Part I
+- 6.3 Weak Interactionof Quarks,Part II
+- 6.4 The Electroweak Interaction
+- 6.5 TestsoftheElectroweak Interaction
 
+#### 7 The Standard Model asa Gauge Theory 
+- 7.1 A Scalar Particle is Needed
+- 7.2 Gauge Theories
+- 7.3 Higgs Mechanism
 
+#### 8 Hadron-Hadron Interactions
+- 8.1 Calculation of Perturbative Cross Sections
+- 8.2 Soft and Hard QCD Processes
+- 8.3 Gauge Bosons and Top Quark
+- 8.4 Higgs Boson
 
+#### 9 Neutrino Masses and Neutrino Oscillations
+- 9.1 Neutrino Oscillations 
+- 9.2 Experiments onNeutrino Oscillations
+- 9.3 Extension of theStandard Modelwith Neutrino Masses
+
+#### 10 Beyondthe Standard Model
+- 10.1 Open Questions
+- 10.2 GrandUnification
+- 10.3 Supersymmetry
+- 10.4 Outlook
+
+#### Appendix
+- A.1 MeasurementSystemsandConstants
+- A.2 ApplicationofFeynmanRules
+- A.3 Python
+
+  
 
 
 
