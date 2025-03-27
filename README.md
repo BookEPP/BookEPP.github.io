@@ -93,15 +93,15 @@ The very popular programming language Python is part of the curriculum at many u
 - 9.2 Experiments onNeutrino Oscillations
 - 9.3 Extension of theStandard Modelwith Neutrino Masses
 
-#### 10 Beyondthe Standard Model
+#### 10 Beyond the Standard Model
 - 10.1 Open Questions
 - 10.2 GrandUnification
 - 10.3 Supersymmetry
 - 10.4 Outlook
 
 #### Appendix
-- A.1 MeasurementSystemsandConstants
-- A.2 ApplicationofFeynmanRules
+- A.1 Measurement Systems and Constants
+- A.2 Application of Feynman Rules
 - A.3 Python
 
   
