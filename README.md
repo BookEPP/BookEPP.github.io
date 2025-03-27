@@ -6,7 +6,7 @@ The GitHub page for the german book is [BuchEPP.github.io](https://buchepp.githu
 There you find Python Notebooks whith calculations done in the book. 
 
 # Book: Particle Physics
-As soon as the english version of the book is available, a link to the related GitHub page will be avaiolable here. 
+As soon as the english version of the book is available, a link to the related GitHub page will be available here. 
 
 Book
 - Elementarteilchenphysik (in german)
