@@ -43,19 +43,19 @@ The very popular programming language Python is part of the curriculum at many u
 - 1.6 Monte Carlo Simulatio
 
 #### 2 The Scattering Matrix and its Symmetries
-&ensp;&ensp; 2.1 The Scattering Matrix</br>
-&ensp;&ensp; 2.2 Rotations in Three Dimensions</br>
-&ensp;&ensp; 2.3 Rotations and Translations in Four Dimensions</br>
-&ensp;&ensp; 2.4 Applications </br>
-&ensp;&ensp; 2.5 Reflections and Parity Invariance</br>
-&ensp;&ensp; 2.6 Time reversal</br>
-&ensp;&ensp; 2.7 Internal Symmetries I </br>
-&ensp;&ensp; 2.8 Internal Symmetries II, Isospin and SU(2) </br>
+- 2.1 The Scattering Matrix
+- 2.2 Rotations in Three Dimensions
+- 2.3 Rotations and Translations in Four Dimensions
+- 2.4 Applications 
+- 2.5 Reflections and Parity Invariance
+- 2.6 Time reversal
+- 2.7 Internal Symmetries I 
+- 2.8 Internal Symmetries II, Isospin and SU(2)
 
 #### 3 Elementary Quantum Electrodynamics
-&ensp;&ensp; 3.1 Dirac Equation and Feynman Rules </br>
-&ensp;&ensp; 3.2 Basic Reactions of QED </br>
-&ensp;&ensp; 3.3 Higher Order Processes </br>
+- 3.1 Dirac Equation and Feynman Rules
+- 3.2 Basic Reactions of QED
+- 3.3 Higher Order Processes
 
 
 
