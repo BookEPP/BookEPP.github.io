@@ -35,9 +35,9 @@ The very popular programming language Python is part of the curriculum at many u
 ### Contents
 
 #### 1 Overview and Tools
-&ensp;&ensp; 1.1 Inward Bounds</br>
-&ensp;&ensp; 1.2 The Elementary Particles</br>
-&ensp;&ensp; 1.3 Cross sections and Decay Rates</br>
+[ ] 1.1 Inward Bounds
+- 1.2 The Elementary Particles
+- 1.3 Cross sections and Decay Rates
 &ensp;&ensp; 1.4 Particle Accelerators</br>
 &ensp;&ensp; 1.5 Detectors</br>
 &ensp;&ensp; 1.6 Monte Carlo Simulation</br>
