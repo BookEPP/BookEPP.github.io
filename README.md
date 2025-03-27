@@ -1,8 +1,12 @@
 
 ![Buch4](BuchEPP4.png)
 
-# Particle Physics
+At the moment this book about particle Physics is only available in german. 
+The GitHub page for the german book is [BuchEPP.github.io](https://buchepp.github.io)
+Thereyou find Python Notebooks whith calculations done in the book. 
 
+# Book: Particle Physics
+As soon as the english version of the book is available, a link to the related GitHub page will be avaiolable here. 
 
 Main GitHub Website for this Book: [BuchEPP.github.io](https://github.com/BuchEPP/BuchEPP.github.io)
 
