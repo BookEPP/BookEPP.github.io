@@ -36,13 +36,37 @@ The very popular programming language Python is part of the curriculum at many u
 
 #### 1 Overview and Tools
 &ensp;&ensp; 1.1 Inward Bounds</br>
-&ensp;&ensp; 1.2 The Elementary Particles
- - 1.3 Cross sections and Decay Rates
- - 1.4 Particle Accelerators
- - 1.5 Detectors
- - 1.6 Monte Carlo Simulation
+&ensp;&ensp; 1.2 The Elementary Particles</br>
+&ensp;&ensp; 1.3 Cross sections and Decay Rates</br>
+&ensp;&ensp; 1.4 Particle Accelerators</br>
+&ensp;&ensp; 1.5 Detectors</br>
+&ensp;&ensp; 1.6 Monte Carlo Simulation</br>
 
-- 2 The Scattering Matrix and its Symmetries
- - 2.1 The Scattering Matrix
- - 2.2. Rotations in Three Dimensions
- -    
+#### 2 The Scattering Matrix and its Symmetries
+&ensp;&ensp; 2.1 The Scattering Matrix</br>
+&ensp;&ensp; 2.2 Rotations in Three Dimensions</br>
+&ensp;&ensp; 2.3 Rotations and Translations in Four Dimensions</br>
+&ensp;&ensp; 2.4 Applications </br>
+&ensp;&ensp; 2.5 Reflections and Parity Invariance</br>
+&ensp;&ensp; 2.6 Time reversal</br>
+&ensp;&ensp; 2.7 Internal Symmetries I </br>
+&ensp;&ensp; 2.8 Internal Symmetries II, Isospin and SU(2) </br>
+
+#### 3 Elementary Quantum Electrodynamics
+&ensp;&ensp; 3.1 Dirac Equation and Feynman Rules </br>
+&ensp;&ensp; 3.2 Basic Reactions of QED </br>
+&ensp;&ensp; 3.3 Higher Order Processes </br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
