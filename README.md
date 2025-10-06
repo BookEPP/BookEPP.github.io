@@ -1,11 +1,14 @@
 
 ![Book](BookEPP.png)
 
+The book is published by Springer with DOI: [10.1007/978-3-662-71706-6](<https://doi.org/10.1007/978-3-662-71706-6>)
+
+Jupyter Notebooks with Python are available at this [GitHub link](https://github.com/BookEPP/Book).
+
 # Book: Particle Physics
-As soon as the english version of the book is available, a link to the related GitHub page will be available here. 
 
 Book
-- Elementarteilchenphysik (in german)
+- Title: Particle Physics
 - Publisher: Springer
 - Authors: Christoph Berger, Gregor Herten 
 
@@ -22,7 +25,7 @@ Sub-folders contain:
 - Gregor Herten, born in 1955, studied at RWTH Aachen University and was awarded his doctorate there in 1983. He then carried out post-doctoral research at CERN. After a professorship at the Massachusetts Institute of Technology (1986-1992), he was Professor of Experimental Physics at the University of Freiburg from 1992 to 2023. His research activities deal with the measurement of reactions in 𝑒-𝑒+ annihilation and in proton-proton collisions as well as the development of precise detectors for muons.
 
 ### Information about the book 
-This textbook on elementary particle physics, written in German, provides an introduction from the basics to modern experiments to the latest developments in particle physics. Experimental tools such as accelerators and detectors as well as the symmetry principles and their applications are also presented in detail. In addition, the Standard Model - which largely dominates today's experimental and theoretical discussion - is introduced. To this end, the book explains essential areas of quantum electrodynamics, the quark model, quantum chromodynamics and electroweak theory. The Lagrangian formalism formulates the standard model as a gauge theory and the Higgs mechanism is described in detail. Chapters on the physics of hadron colliders and neutrino physics tie in with current research and also examine possible extensions of the Standard Model in the light of recent experimental results. The appealing design of the textbook and the 204 exercises with solution instructions and supplements as Jupyter Notebooks on GitHub subsequently serve to deepen the knowledge.
+This textbook on elementary particle physics provides an introduction from the basics to modern experiments to the latest developments in particle physics. Experimental tools such as accelerators and detectors as well as the symmetry principles and their applications are presented in detail. In addition, the Standard Model - which largely dominates today's experimental and theoretical discussion - is introduced. To this end, the book explains essential areas of quantum electrodynamics, the quark model, quantum chromodynamics and electroweak theory. The Lagrangian formalism, the standard model as a gauge theory and the Higgs mechanism are described in detail. Chapters on the physics of hadron colliders and neutrino physics tie in with current research and also examine possible extensions of the Standard Model in the light of recent experimental results. The appealing design of the textbook and the 207 exercises with solution instructions and supplements as Jupyter Notebooks on GitHub subsequently serve to deepen the knowledge.
 The book is published by Springer with DOI: [10.1007/978-3-662-71706-6](<https://doi.org/10.1007/978-3-662-71706-6>).
 
 ### Calculations with python
